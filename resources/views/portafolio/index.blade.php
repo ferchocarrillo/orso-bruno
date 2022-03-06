@@ -15,7 +15,7 @@
         position: relative;
         width: 100%;
         height: 100vh;
-        background-image: url('https://raw.githubusercontent.com/oscicen/oscicen.github.io/master/img/depth-3.png'), url(https://raw.githubusercontent.com/oscicen/oscicen.github.io/master/img/depth-2.png), url(https://raw.githubusercontent.com/oscicen/oscicen.github.io/master/img/depth-1.png);
+        background-image: url('https://github.com/ferchocarrillo/orso-bruno/blob/main/public/imagen/ej1.png'), url(https://raw.githubusercontent.com/oscicen/oscicen.github.io/master/img/depth-2.png), url(https://raw.githubusercontent.com/oscicen/oscicen.github.io/master/img/depth-1.png);
         background-repeat: no-repeat;
         background-position: center;
         background-position: 50% 50%;
